@@ -7,4 +7,4 @@
 
 Написать программу, которая отвечает «Да» или «Нет» на вопрос, делится ли первое введённое число на второе без остатка.
 
-<img width="1400" height="1900" alt="Блок-схема_делимость" src="https://github.com/user-attachments/assets/e688dac3-792d-43f2-a1d8-f5c3f53f1d58" />
+<img width="1540" height="1165" alt="22" src="https://github.com/user-attachments/assets/93af47e3-7d2d-4566-ae48-41637f585658" />
